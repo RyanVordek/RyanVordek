@@ -1,78 +1,152 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=89B4FA&center=true&vCenter=true&width=600&lines=Olá,+sou+o+RyanVordek!;Estudante+de+ADS;Desenvolvedor+Python,+Kotlin+%26+C%2B%2B;Entusiasta+de+Linux+e+Customização" alt="Typing SVG" />
+
+<svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="180" fill="#0f1115"/>
+  <line x1="0" y1="150" x2="1200" y2="150" stroke="#2a2f36" stroke-width="2"/>
+  <text x="60" y="95" font-family="monospace" font-size="42" fill="#d1d5db">
+    RYAN VORDEK
+  </text>
+  <text x="60" y="130" font-family="monospace" font-size="16" fill="#6b7280">
+    engenharia de software | sistemas | automação
+  </text>
+</svg>
+
+<br/>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="36">
+  <rect width="240" height="36" rx="4" fill="#1a1d22"/>
+  <text x="18" y="23" font-family="monospace" font-size="13" fill="#9ca3af">
+    LAB // RYAN VORDEK
+  </text>
+</svg>
+
 </div>
 
-<p align="center">
-  <a href="https://t.me/FurTech_Traducoes" target="_blank">
-    <img src="https://img.shields.io/badge/Canal_Telegram-FurTech_Traduções-89B4FA?style=for-the-badge&logo=telegram&logoColor=white" alt="FurTech Telegram">
-  </a>
-</p>
+---
+
+## VISÃO DE ENGENHARIA
+
+Software é estrutura.
+
+Não escrevo código apenas para funcionar.
+Escrevo para ser previsível, organizado e sustentável.
+
+Antes de implementar:
+
+- Analiso fluxo de dados  
+- Defino limites claros de responsabilidade  
+- Avalio custo de abstração  
+- Identifico possíveis pontos de falha  
+- Automatizo o que é repetitivo  
+
+Minimalismo na superfície.  
+Profundidade na base.
 
 ---
 
-### Sobre Mim
+## ARQUITETURA EM CAMADAS
 
-Sou um estudante de Análise e Desenvolvimento de Sistemas (ADS) no Brasil (Ceará \W/), focado em criar ferramentas práticas e explorar os limites da customização de software e sistemas operacionais. Gosto de atuar em diversas frentes da tecnologia, desde o desenvolvimento back-end e mobile até configurações avançadas de ambiente.
+```
+┌──────────────────────────────┐
+│ Interface                    │
+├──────────────────────────────┤
+│ Lógica de Aplicação          │
+├──────────────────────────────┤
+│ Serviços & Integrações       │
+├──────────────────────────────┤
+│ Automação & Processamento    │
+├──────────────────────────────┤
+│ Sistema Operacional          │
+└──────────────────────────────┘
+```
 
-* **Foco em Desenvolvimento:** Criando aplicações estruturadas em Kotlin (com integração ao Firebase) e desenvolvendo scripts de automação robustos em Python.
-* **Sistemas e Infraestrutura:** Grande entusiasta de "ricing" em distribuições Linux (especialmente CachyOS com compositor Hyprland e temas Catppuccin) e arquiteturas customizadas, como configurações de Hackintosh (OpenCore) para hardware AMD Ryzen.
-* **Workflow:** Priorizo um ambiente de desenvolvimento otimizado e esteticamente agradável, utilizando terminais configurados com Fish/Zsh.
+Nada existe fora da sua camada.
 
 ---
 
-### Projetos e Interesses Atuais
+## CAMADA DE APLICAÇÃO
 
-* **Automação de Traduções:** Desenvolvimento de scripts em Python integrando a API do Gemini e o Argos Translate para tradução em massa e automatizada de strings em Visual Novels (engine Ren'Py).
-* **Desenvolvimento Mobile & Finanças:** Estruturação de um aplicativo full-stack de gestão financeira ("Arches Financeira") em Kotlin, focado em gamificação, modos cooperativos de economia e UI/UX refinada.
-* **Hardware:** Explorando otimizações e desenvolvimento no meu Lenovo ThinkPad T495 e Redmi Note 12 4G.
+- Desenvolvimento Android com Kotlin  
+- Integração estruturada com Firebase  
+- Organização modular  
+- Separação clara de responsabilidades  
+- UX voltada à consistência comportamental  
+
+Aplicação boa não surpreende.
+Ela se comporta como esperado.
 
 ---
 
-### Minha Stack Tecnológica
+## CAMADA DE AUTOMAÇÃO
+
+- Scripts robustos em Python  
+- Processamento em lote  
+- Correção contextual automatizada  
+- Construção de ferramentas próprias  
+
+Repetição é sintoma de algo que pode ser melhorado.
+
+---
+
+## CAMADA DE SISTEMA
+
+Ambiente principal:
+
+```
+OS: Linux customizado
+WM: Hyprland
+Shell: Fish / Zsh
+Tema: Catppuccin adaptado monocromático
+Editor: VSCode / Neovim
+Foco: performance e controle
+```
+
+Sistema não é caixa preta.
+É ferramenta de precisão.
+
+---
+
+## EXPERIMENTOS & LABORATÓRIO
+
+Espaço dedicado a:
+
+- Testes de arquitetura Android  
+- Automação com IA  
+- Ajustes de performance  
+- Otimização de workflow  
+- Exploração de limites técnicos  
+
+Nem todo experimento vira produto.
+Alguns existem para ampliar compreensão.
+
+---
+
+## ROADMAP TÉCNICO
+
+Em evolução contínua:
+
+- Aprimoramento em C/C++ voltado a performance  
+- Estudo aprofundado de sistemas operacionais  
+- Desenvolvimento de ferramentas próprias  
+- Estruturação avançada de arquitetura mobile  
+
+Construção progressiva.
+Sem atalhos.
+
+---
+
+## STACK
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,kotlin,html,css,js,linux,git,firebase,androidstudio,bash&perline=12&theme=dark" alt="Minhas Skills" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,kotlin,linux,git,firebase,bash&theme=dark"/>
 </div>
 
 ---
 
-### Estatísticas do GitHub
+## CONTATO
 
-<div align="center">
-  <a href="https://github.com/RyanVordek">
-    <img src="https://github-profile-trophy.vercel.app/?username=RyanVordek&theme=catppuccin_mocha&no-bg=true&no-frame=true&margin-w=15&column=7" alt="Troféus do GitHub" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RyanVordek&theme=catppuccin_mocha&hide_border=true&v=1" alt="GitHub Streak" />
-      </td>
-      <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanVordek&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=false&v=1" alt="Estatísticas Gerais" />
-      </td>
-    </tr>
-  </table>
-</div>
+Telegram: @RyanVordek  
+Email: ryanvordek@gmail.com  
 
----
-
-### Contato e Apoio
-
-Se o meu trabalho chamou sua atenção, se quiser trocar uma ideia sobre código, Linux, ou contribuir com algum projeto, minhas DMs estão abertas:
-
-<div align="center">
-  <a href="mailto:ryanvordek@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://t.me/RyanVordek">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://www.paypal.com/donate/?business=ryanvordek@gmail.com&currency_code=BRL">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
-  </a>
-</div>
+Se você valoriza arquitetura, automação e controle técnico,  
+temos assunto.
