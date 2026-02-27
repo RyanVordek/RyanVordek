@@ -35,8 +35,8 @@ Fala ae! Sou brasileiro (Cearense \W/) e um desenvolvedor focado em criar soluç
 ### Minhas Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanVordek&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanVordek&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Linguagens Mais Usadas" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RyanVordek&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanVordek&layout=compact&theme=catppuccin_mocha&hide_border=true&custom_title=Linguagens" alt="Linguagens Mais Usadas" />
 </div>
 
 ---
