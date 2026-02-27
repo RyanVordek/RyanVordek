@@ -1,60 +1,59 @@
-</a>
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2CA5E0&center=true&vCenter=true&width=500&lines=Olá,+sou+o+RyanVordek!+👋;Estudante+de+ADS;Desenvolvedor+Python+%26+C%2B%2B;Entusiasta+de+Tecnologia" alt="Typing SVG" />
+</div>
 
-<!--
-<h2 align="center">
-  Welcome to rapha repos!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
-
-<!--
 <p align="center">
-  <a href="https://github.com/raphakkj4"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://t.me/FurTech_Traducoes" target="_blank">
+    <img src="https://img.shields.io/badge/Canal_Telegram-FurTech_Traduções-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="FurTech Telegram">
+  </a>
 </p>
 
- -->
+---
 
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Howdy! Fala ae, sou o 
-                <b><a target="_blank" href="https://t.me/RyanVordek">RyanVordek</a></b>
-        </samp>
-</h3>
+### 👨‍💻 Sobre mim
 
+Fala ae! Sou brasileiro (Cearense \W/) e um desenvolvedor apaixonado por criar soluções, automações e projetos interessantes. 
 
-<p align="center"> 
-  <samp>
-   <a href="https://t.me/FurTech_Traducoes" target="_blank">「 Tele group 」</a>
-    <br>
-    「 Sou brasileiro, Cearense \W/</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
+* 🎓 **Estudante:** Cursando Análise e Desenvolvimento de Sistemas (ADS).
+* 🐍 **Foco Atual:** Automação e scripts de tradução utilizando Python (explorando bastante o ecossistema de Visual Novels/Ren'Py).
+* ⚙️ **Interesses:** Customização de sistemas (Linux/Wayland), desenvolvimento em Kotlin e tecnologias web.
+* 📱 **Hardware Diário:** Redmi Note 12 4G (Tapas).
+* 🤝 **Colaboração:** Estou super aberto a participar de outros projetos open-source ou colaborativos!
+* 💬 **Vamos conversar:** Minhas DMs estão sempre abertas para trocar ideias ou falar sobre código.
 
-<br />
+---
 
-- 🔥 Estudante de ADS
-- ⚡️ Começando no processo de Traduções em Py em Janeiro de 2025
-- 📱 Dispostivo atual: Redmi Note 12 4G(Tapas).
-- 👯 Posso ser participante em outros projetos.
-- 💬 DM aberta para conversa.
-- ✔️ Linguagens: C/C+, Python.
-- 💵 Gostou do meu trabalho? [Paypal](https://www.paypal.com/donate/?business=ryanvordek@gmail.com&currency_code=BRL)
-<br>
-<a href="mailto: ryanvordek@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://t.me/RyanVordek" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://www.paypal.com/donate/?business=ryanvordek@gmail.com&currency_code=BRL" target="_blank">
-</a>
-</a>
-<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
-</a>
-<br/>
-<br/>
-<hr/>
-<br/>
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,kotlin,html,css,js,linux,git&perline=10" alt="Minhas Skills" />
+  </a>
+</div>
+
+---
+
+### 📊 Minhas Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" />
+</div>
+
+---
+
+### 📬 Contato & Apoio
+
+Se você gostou do meu trabalho, quer me apoiar ou apenas bater um papo, sinta-se à vontade para me contatar:
+
+<div align="center">
+  <a href="mailto:ryanvordek@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://t.me/RyanVordek">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.paypal.com/donate/?business=ryanvordek@gmail.com&currency_code=BRL">
+    <img src="https://img.shields.io/badge/PayPal_Doação-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  </a>
+</div>
