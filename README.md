@@ -1,152 +1,63 @@
 <div align="center">
 
-<svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="180" fill="#0f1115"/>
-  <line x1="0" y1="150" x2="1200" y2="150" stroke="#2a2f36" stroke-width="2"/>
-  <text x="60" y="95" font-family="monospace" font-size="42" fill="#d1d5db">
-    RYAN VORDEK
+<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#89b4fa;stop-opacity:1" /> <stop offset="100%" style="stop-color:#cba6f7;stop-opacity:1" /> </linearGradient>
+  </defs>
+  <rect width="1200" height="220" rx="12" fill="#1e1e2e"/> <line x1="0" y1="180" x2="1200" y2="180" stroke="#313244" stroke-width="2"/> <text x="60" y="105" font-family="monospace" font-weight="bold" font-size="52" fill="#cdd6f4"> RYAN VORDEK
   </text>
-  <text x="60" y="130" font-family="monospace" font-size="16" fill="#6b7280">
-    engenharia de software | sistemas | automação
+  <text x="60" y="145" font-family="monospace" font-size="18" fill="#a6adc8"> > laboratório pessoal de engenharia de software_
   </text>
+  <rect x="60" y="180" width="180" height="4" fill="url(#grad)" />
 </svg>
 
 <br/>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="240" height="36">
-  <rect width="240" height="36" rx="4" fill="#1a1d22"/>
-  <text x="18" y="23" font-family="monospace" font-size="13" fill="#9ca3af">
-    LAB // RYAN VORDEK
-  </text>
-</svg>
+<a href="#">
+  <img src="https://img.shields.io/badge/STRUCTURE-1e1e2e?style=for-the-badge&logoColor=89b4fa&labelColor=11111b&color=1e1e2e" alt="Structure"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/SYSTEMS-1e1e2e?style=for-the-badge&logoColor=cba6f7&labelColor=11111b&color=1e1e2e" alt="Systems"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/CONTROL-1e1e2e?style=for-the-badge&logoColor=f38ba8&labelColor=11111b&color=1e1e2e" alt="Control"/>
+</a>
 
 </div>
 
----
+<br/>
 
-## VISÃO DE ENGENHARIA
+> *"Eu não gosto de usar tecnologia apenas como usuário. Eu preciso entender como funciona. Preciso saber onde começa, onde termina e onde pode falhar."*
 
-Software é estrutura.
+## ⌖ IDENTIDADE & MANIFESTO
 
-Não escrevo código apenas para funcionar.
-Escrevo para ser previsível, organizado e sustentável.
+Software é engenharia aplicada. É decisão de responsabilidade, fronteira bem definida e camada respeitada. Gosto de desmontar sistemas — não para quebrar, mas para compreender a base. 
 
-Antes de implementar:
+Escrevo código com intenção. Organizo a arquitetura com disciplina. Customizo meu ambiente porque **controle importa**. Minimalismo na aparência, complexidade dominada na base. Antes de escrever uma linha de código, eu questiono:
 
-- Analiso fluxo de dados  
-- Defino limites claros de responsabilidade  
-- Avalio custo de abstração  
-- Identifico possíveis pontos de falha  
-- Automatizo o que é repetitivo  
+* *Quem deve saber disso?*
+* *Quem não deveria saber?*
+* *O que acontece sob pressão?*
+* *Isso pode ser automatizado?*
 
-Minimalismo na superfície.  
-Profundidade na base.
+Se pode ser estruturado melhor, será.
 
 ---
 
-## ARQUITETURA EM CAMADAS
+## 🏗️ ARQUITETURA EM CAMADAS
 
-```
-┌──────────────────────────────┐
-│ Interface                    │
-├──────────────────────────────┤
-│ Lógica de Aplicação          │
-├──────────────────────────────┤
-│ Serviços & Integrações       │
-├──────────────────────────────┤
-│ Automação & Processamento    │
-├──────────────────────────────┤
-│ Sistema Operacional          │
-└──────────────────────────────┘
-```
+Cada camada tem um papel. Misturar responsabilidades é criar dívida técnica.
 
-Nada existe fora da sua camada.
-
----
-
-## CAMADA DE APLICAÇÃO
-
-- Desenvolvimento Android com Kotlin  
-- Integração estruturada com Firebase  
-- Organização modular  
-- Separação clara de responsabilidades  
-- UX voltada à consistência comportamental  
-
-Aplicação boa não surpreende.
-Ela se comporta como esperado.
-
----
-
-## CAMADA DE AUTOMAÇÃO
-
-- Scripts robustos em Python  
-- Processamento em lote  
-- Correção contextual automatizada  
-- Construção de ferramentas próprias  
-
-Repetição é sintoma de algo que pode ser melhorado.
-
----
-
-## CAMADA DE SISTEMA
-
-Ambiente principal:
-
-```
-OS: Linux customizado
-WM: Hyprland
-Shell: Fish / Zsh
-Tema: Catppuccin adaptado monocromático
-Editor: VSCode / Neovim
-Foco: performance e controle
-```
-
-Sistema não é caixa preta.
-É ferramenta de precisão.
-
----
-
-## EXPERIMENTOS & LABORATÓRIO
-
-Espaço dedicado a:
-
-- Testes de arquitetura Android  
-- Automação com IA  
-- Ajustes de performance  
-- Otimização de workflow  
-- Exploração de limites técnicos  
-
-Nem todo experimento vira produto.
-Alguns existem para ampliar compreensão.
-
----
-
-## ROADMAP TÉCNICO
-
-Em evolução contínua:
-
-- Aprimoramento em C/C++ voltado a performance  
-- Estudo aprofundado de sistemas operacionais  
-- Desenvolvimento de ferramentas próprias  
-- Estruturação avançada de arquitetura mobile  
-
-Construção progressiva.
-Sem atalhos.
-
----
-
-## STACK
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,kotlin,linux,git,firebase,bash&theme=dark"/>
-</div>
-
----
-
-## CONTATO
-
-Telegram: @RyanVordek  
-Email: ryanvordek@gmail.com  
-
-Se você valoriza arquitetura, automação e controle técnico,  
-temos assunto.
+```text
+┌────────────────────────────────────────────────────────┐
+│  [ INTERFACE ]           Comportamento Consistente     │
+├────────────────────────────────────────────────────────┤
+│  [ LÓGICA DE APLICAÇÃO ] Regras e Domínio              │
+├────────────────────────────────────────────────────────┤
+│  [ INTEGRAÇÕES ]         Firebase, APIs, Serviços      │
+├────────────────────────────────────────────────────────┤
+│  [ AUTOMAÇÃO ]           Scripts, Pipelines, Lotes     │
+├────────────────────────────────────────────────────────┤
+│  [ SISTEMA ]             SO, Hardware, Redes           │
+└────────────────────────────────────────────────────────┘
